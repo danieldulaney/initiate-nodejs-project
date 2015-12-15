@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wea",
+				"weapon"
+			],
+			[
+				"getSele",
+				"getSelectedValuesList"
+			],
+			[
+				"ge",
+				"getSelectedValuesList"
+			],
+			[
+				"getSe",
+				"getSelectedChar"
+			],
+			[
+				"Se",
+				"SelectButtonListener"
+			],
+			[
+				"Wea",
+				"WeaponSelectionListener"
+			],
+			[
+				"pl",
+				"playerPanel"
+			],
+			[
+				"with",
+				"withdrawals"
+			],
+			[
+				"rmSe",
+				"rmSection"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"angul",
+				"angular-sanitize"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paper-radio",
+				"paper-radio-button"
+			],
+			[
+				"listItem",
+				"listItemUnhovered"
+			],
+			[
+				"lc-",
+				"lc-toggle-icon-button"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"json_",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "markdown-advanced.sublime-project",
+			"settings":
+			{
+				"buffer_size": 139,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "jshint",
+		"selected_items":
+		[
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/GitHub/markdown-advanced",
+		"/C/Users/user/GitHub/markdown-advanced/public"
+	],
+	"file_history":
+	[
+		"/C/Users/user/GitHub/initiatenjs.bat",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/Player.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/CharacterPanel.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/Character.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/Enemy.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/Assignment5.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/Weapon.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/OptionsPanel.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/Assignment5.sublime-project",
+		"/C/Users/user/AppData/Local/Temp/7zOAEA6.tmp/AdventureGameFinal.java",
+		"/C/Users/user/AppData/Local/Temp/7zO78B7.tmp/AdventureGameFinal.java",
+		"/C/Users/user/AppData/Local/Temp/7zE7644.tmp/Character.java",
+		"/C/Users/user/AppData/Local/Temp/7zE7644.tmp/Enemy.java",
+		"/C/Users/user/AppData/Local/Temp/7zE7644.tmp/Player.java",
+		"/C/Users/user/AppData/Local/Temp/7zE7644.tmp/Weapon.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/CharacterPanel",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/ConfigFrame.java",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Assignment 5/Assignment5",
+		"/C/Users/user/Box Sync/Projects/FuckMyTextUp/baseApp.js",
+		"/C/Users/user/Box Sync/Projects/FuckMyTextUp/index.html",
+		"/C/Users/user/Desktop/Lab 10/SavingsAccount.java",
+		"/C/Users/user/Desktop/Lab 10/BankAccount.java",
+		"/C/Users/user/Desktop/Lab 10/Lab10.java",
+		"/C/Users/user/Documents/reddit-material/public/css/theme.css",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmDisplay/rmDisplay.js",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmApp/rmApp.js",
+		"/C/Users/user/Documents/reddit-material/bower_components/angular-material/modules/js/content/content.js",
+		"/C/Users/user/Documents/reddit-material/public/css/style.css",
+		"/C/Users/user/Documents/reddit-material/public/index.html",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmComment/rmComment.html",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmPost/rmPost.html",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmComment/rmComment.js",
+		"/C/Users/user/Documents/reddit-material/public/test.html",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmData/rmData.js",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmDisplay/rmDisplay.html",
+		"/C/Users/user/Documents/reddit-material/bower.json",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmPost/rmPost.css",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmMarkdown/rmMarkdown.js",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmMarkdown/rmMarkdown.app",
+		"/C/Users/user/Documents/reddit-material/app.js",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmPost/rmPost.js",
+		"/C/Users/user/Documents/reddit-material/public/modules/RecursionHelper/RecusionHelper.js",
+		"/C/Users/user/Documents/reddit-material/public/.jshintrc",
+		"/C/Users/user/Documents/reddit-material/public/posts/index.html",
+		"/C/Users/user/Documents/reddit-material/public/modules/rmGeneral/rmGeneral.js",
+		"/C/Users/user/Documents/reddit-material/public/posts/posts-list.html",
+		"/C/Users/user/Documents/reddit-material/public/posts/post.html",
+		"/C/Users/user/Documents/reddit-material/public/posts/posts.js",
+		"/C/Users/user/Documents/reddit-material/public/js/app.js",
+		"/C/Users/user/Desktop/control.lua",
+		"/C/Users/user/Desktop/Landfill_2.1.4/control.lua",
+		"/C/Users/user/AppData/Local/Temp/7zO85EB.tmp/control.lua",
+		"/C/Users/user/Documents/reddit-material/public/posts/post-list.html",
+		"/C/Users/user/Documents/reddit-material/public/posts/posts.html",
+		"/C/Users/user/Documents/reddit-material/public/posts.html",
+		"/C/Users/user/Documents/reddit-material/public/js/posts.js",
+		"/C/Users/user/Documents/reddit-material/public/templates/post.html",
+		"/C/Users/user/Documents/reddit-material/.gitignore",
+		"/C/Users/user/Documents/reddit-material/public/js/starterApp.js",
+		"/C/Users/user/Documents/reddit-material/bin/www",
+		"/C/Users/user/Documents/reddit-material/README.md",
+		"/C/Users/user/Documents/reddit-material/package.json",
+		"/C/Users/user/Documents/reddit-material/reddit-material.sublime-project",
+		"/C/Users/user/Desktop/redditMaterial/package.json",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/components/lc-mainview.html",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/index.html",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/components/lc-items-display.html",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/components/lc-frame.html",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/components/lc-items-display",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/.jshintrc",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/testing.html",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/components/lc-item-list.html",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/components/lc-drawer.html",
+		"/C/Users/user/Desktop/ListCycle-Polymer/public/components/lc-list.html",
+		"/C/Users/user/Desktop/ListCycle/public/components/lc-list.html",
+		"/C/Users/user/Desktop/ListCycle/public/components/lc-item.html",
+		"/C/Users/user/Desktop/ListCycle/public/components/lc-toggle-icon-button.html",
+		"/C/Users/user/Desktop/ListCycle/public/components/lc-toggle-icon-button",
+		"/C/Users/user/Desktop/ListCycle/public/.jshintrc",
+		"/C/Users/user/Desktop/ListCycle/app.js",
+		"/C/Users/user/Desktop/ListCycle/bower_components/paper-styles/typography.html",
+		"/C/Users/user/Desktop/ListCycle/html/index.html",
+		"/C/Users/user/Desktop/ListCycle/html/css/theme.css",
+		"/C/Users/user/Desktop/ListCycle/html/components/lc-item.html",
+		"/C/Users/user/Desktop/ListCycle/html/components/lc-body.html",
+		"/C/Users/user/Desktop/ListCycle/api/errgen.js",
+		"/C/Users/user/Desktop/ListCycle/html/components/proto-element.html",
+		"/C/Users/user/Desktop/ListCycle/html/.jshintrc",
+		"/C/Users/user/Desktop/ListCycle/ListCycle.sublime-project",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Users/user/Desktop/ListCycle/api/schemas/task.js",
+		"/C/Users/user/Desktop/ListCycle/api/auth.js",
+		"/C/Users/user/Desktop/ListCycle/api/user.js",
+		"/C/Users/user/Desktop/ListCycle/api/api.js",
+		"/C/Users/user/Desktop/ListCycle/html/login.html",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/user/Desktop/ListCycle/public/login.html",
+		"/C/Users/user/Desktop/ListCycle/bower_components/polymer/polymer.html",
+		"/C/Users/user/Desktop/ListCycle/public/login",
+		"/C/Users/user/Desktop/ListCycle/auth/auth.js",
+		"/C/Users/user/Desktop/ListCycle/api/schemas/user.js",
+		"/C/Users/user/Desktop/ListCycle/package.json",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/user/Desktop/ListCycle/api/models.js",
+		"/C/Users/user/Desktop/ListCycle/public/testing/index.html",
+		"/C/Users/user/Box Sync/Projects/listcycle/testing/apitest.html",
+		"/C/Users/user/Desktop/ListCycle/startmongo.cmd",
+		"/E/start.vbs",
+		"/C/Users/user/Desktop/test.vbs",
+		"/E/Project Template/package.json",
+		"/E/Project Template/app.js",
+		"/E/start.bat",
+		"/C/Users/user/Desktop/test.vb",
+		"/C/Windows/System32/cmd.exe",
+		"/C/Users/user/AppData/Roaming/npm/express.cmd",
+		"/C/Users/user/Box Sync/Classes/CS 0401/Lab Assignments/Lab 1/Lab1.java",
+		"/C/Users/user/AppData/Roaming/Factorio/mods/mod-list.json",
+		"/C/Users/user/Box Sync/Classes/CS 0401/CustomerSim.java",
+		"/C/Users/user/Box Sync/Projects/listcycle/runmongonoauth.bat",
+		"/C/Users/user/Box Sync/Projects/listcycle/runmongo.bat",
+		"/C/Users/user/Box Sync/Projects/listcycle/testing/run.bat",
+		"/C/Users/user/Box Sync/Projects/listcycle/package.json",
+		"/C/Users/user/Box Sync/Projects/listcycle/bin/www",
+		"/C/Users/user/Box Sync/Projects/listcycle/views/error.jade",
+		"/C/Users/user/Box Sync/Projects/listcycle/views/layout.jade",
+		"/C/Users/user/Box Sync/Projects/listcycle/app.js",
+		"/C/Users/user/Box Sync/Projects/listcycle/routes/users.js",
+		"/C/Users/user/Box Sync/Projects/listcycle/routes/index.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"@media",
+			"\"",
+			".md-default-theme",
+			"background-color",
+			"md-toolbar",
+			"color",
+			"$LocationProvider",
+			"$location",
+			"service",
+			"$location",
+			"url = function",
+			".md-button",
+			"display: flex",
+			"text-transform: uppercase",
+			"md-button",
+			".md-cornered",
+			"md-button",
+			"posts",
+			"posts.js",
+			"angular",
+			"  ",
+			"font-family",
+			"  ",
+			"'",
+			"java",
+			"\\n\\n",
+			"getTimeStamp",
+			"protocol"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\\t",
+			"\"",
+			"\\n",
+			"getTimestamp"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "markdown-advanced.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build from root",
+	"project": "markdown-advanced.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
